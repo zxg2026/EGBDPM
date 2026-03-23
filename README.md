@@ -1,7 +1,8 @@
-#EGBDPM: Efficient granular ball density peaks clustering for manifold data(EGBDPM)
+# **EGBDPM: Efficient granular ball density peaks clustering for manifold data**
 
 If you find this repository useful for your research, please consider citing our paper:
 
+```bibtex
 @article{EGBDPM,
   title   = {EGBDPM: Efficient Granular Ball Density Peaks Clustering for Manifold Data},
   author  = {Zhang, Xingguo and Xu, Li and Jia, Weikuan},
